@@ -1,0 +1,5 @@
+node_modules/
+frontend/build/
+backend/.env
+npm-debug.log*
+yarn-debug.log*
